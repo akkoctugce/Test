@@ -5,3 +5,6 @@ This project involves sample scripts and a video. It shows an example prototype 
 
 
 ![alt text](https://github.com/akkoctugce/Test/blob/main/Mirror%20Joints%20MVC.png)
+
+
+![alt text](https://github.com/akkoctugce/Test/blob/main/Mirror%20Hand%20Joints.mp4)
